@@ -1,0 +1,69 @@
+h1 {
+  font-family: serif ;
+  font-size: 32px;
+}
+h3 {
+    font-family: serif;
+    font-size: 24px
+}
+p {
+    font-family:Helvetica,arial,sans-serif;
+    font-size: 12px;
+/* Helvetica is the primary font*/
+}
+blockquote {
+    font-family: serif;
+    font-size: 40px
+}
+.center {
+border: 5px;
+text-align: center;
+}
+.byline {
+    font-size: 24px;
+}
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px
+}
+.image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px
+}
+.image3 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px
+}
+.image4 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px
+}
+.image5 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px
+}
+.image6 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px
+}
+figcaption {
+    font-size: 10px;
+}
